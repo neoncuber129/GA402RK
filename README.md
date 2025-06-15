@@ -1,8 +1,8 @@
 <html>
- <h2>ROG Zephyrus G14 GA402RK – Hackintosh (macOS 15.4 Sequoia)</h2>
+ <h2>ROG Zephyrus G14 GA402RK – Hackintosh (macOS 15.5 Sequoia)</h2>
 <p><strong>Status</strong>: ✅ Working<br>
 <strong>Model</strong>: GA402RK (Ryzen 9 6900HS + Radeon RX 6800S), GA402RJ will work too<br>
-<strong>macOS Version</strong>: macOS Sequoia 15.4<br>
+<strong>macOS Version</strong>: macOS Sequoia 15.5<br>
 <strong>EFI Source</strong>: <a href="https://drive.google.com/file/d/1m7VaAxh2oUaFYqP6vWavmVwGE0ntqzhM/view?usp=sharing">EFI Download (Google Drive)</a></p>
 <hr>
 <h3>✅ What works</h3>
@@ -178,7 +178,7 @@ iServices (iCloud, etc) | ✅ Yes | All work after SMBIOS + Ethernet fix
 ### 📂 EFI Info
 
 * Based on OpenCore 1.0.4
-* Patched with AMD Vanilla (15.4 support) lastest
+* Patched with AMD Vanilla (15.5 support) lastest
 * Includes:
 
   * `NootRx.kext`
