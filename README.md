@@ -1,5 +1,4 @@
 <html>
-![Home](images/Ảnh màn hình 2025-06-15 lúc 08.57.25.png)
  <h2>ROG Zephyrus G14 GA402RK – Hackintosh (macOS 15.4 Sequoia)</h2>
 <p><strong>Status</strong>: ✅ Working<br>
 <strong>Model</strong>: GA402RK (Ryzen 9 6900HS + Radeon RX 6800S), GA402RJ will work too<br>
